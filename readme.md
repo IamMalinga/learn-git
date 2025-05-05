@@ -1,4 +1,4 @@
-## Heyyoooo everyone, welcome to by Git guide!
+## Welocme to Git!
 
-- Yo, John here!
+- This is coming from 'dev-malinga'
 - I am adding this from 'feature-branch'
